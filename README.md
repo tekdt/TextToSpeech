@@ -8,6 +8,6 @@ Cấu trúc chương trình, cách đặt ffmpeg như sau<br />
 /<br />
 |__T2S Unlimited.exe<br />
 |__ffmpeg<br />
-|  |__bin<br />
-|     |__ffmpeg.exe<br />
-|     |__ffprobe.exe<br />
+||||__bin<br />
+|||||||__ffmpeg.exe<br />
+|||||||__ffprobe.exe<br />
