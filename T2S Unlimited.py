@@ -84,21 +84,8 @@ def update_progress(value):
     progress_label.config(text=f"Đang xử lý: {value}%")
     root.update_idletasks()
 
-# def ask_questions():
-    # questions = [
-        # "(Câu hỏi chỉ dành cho Bảo Bối ♥♥♥ thôi nha) Em yêu Anh nhiều lắm mà đúng hơm nhỉ?",
-        # "(Câu hỏi chỉ dành cho Bảo Bối ♥♥♥ thôi nha) Bảo Bối yêu Anh nhiều hơm?",
-        # "(Câu hỏi chỉ dành cho Bảo Bối ♥♥♥ thôi nha) Em có biết Anh yêu Em nhiều lắm hong?"
-    # ]
-    # question = random.choice(questions)
-    # return messagebox.askyesno("Xác nhận", question)
-
 root = tk.Tk()
 root.title("Text To Speech Unlimited - TekDT")
-
-# if not ask_questions():
-    # root.destroy()
-    # exit()
 
 frame = tk.Frame(root, padx=10, pady=10)
 frame.pack(pady=20)
