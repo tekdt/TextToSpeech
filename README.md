@@ -17,12 +17,14 @@
 # Hướng dẫn sử dụng
 Chương trình này cần phần mềm ffmpeg để hoạt động. Có thể tải tại https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z. Với file Zip đã được biên dịch thì không cần tải thêm phần mềm ffmpeg, vì đã có sẵn trong file Zip rồi.
 Cấu trúc chương trình, cách đặt ffmpeg như sau:
-.
-├── T2S Unlimited.exe
-├── ffmpeg
-    ├── bin
-        └── ffprobe.exe
-        └── ffprobe.exe
+<!-- TREEVIEW START -->
+.<br/>
+|-- T2S Unlimited.exe<br/>
+|-- ffmpeg<br/>
+|   |-- bin<br/>
+|   |   |-- ffprobe.exe<br/>
+|   |   |-- ffprobe.exe<br/>
+  <!-- TREEVIEW END -->
 
 # Trách nhiệm
 TekDT không chịu trách nhiệm cho tài khoản của bạn khi bạn tải ở các nguồn khác được tuỳ biến, sửa đổi dựa trên script này. Bạn có thể sử dụng chương trình này miễn phí thì hãy tin nó. TekDT sẽ không thu thập tài khoản tài khoản hay làm bất cứ điều gì với tài khoản của bạn.
